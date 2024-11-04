@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<schedule id="bobby">
+    <event>
+        <name>Sleeping</name>
+        <time>
+            <start-day>Monday</start-day>
+            <start>1500</start>
+            <end-day>Wednesday</end-day>
+            <end>1800</end>
+        </time>
+        <location>
+            <online>false</online>
+            <place>West A</place>
+        </location>
+        <users>
+            <uid>bobby</uid>
+        </users>
+    </event>
+    <event>
+        <name>Dinner</name>
+        <time>
+            <start-day>Saturday</start-day>
+            <start>1600</start>
+            <end-day>Saturday</end-day>
+            <end>1900</end>
+        </time>
+        <location>
+            <online>false</online>
+            <place>yamaguchi</place>
+        </location>
+        <users>
+            <uid>bobby</uid>
+            <uid>Sheena</uid>
+            <uid>Guissepe</uid>
+        </users>
+    </event>
+</schedule>

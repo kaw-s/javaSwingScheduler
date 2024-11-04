@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<schedule id="adrian">
+    <event>
+        <name>playing piano</name>
+        <time>
+            <start-day>Thursday</start-day>
+            <start>1300</start>
+            <end-day>Monday</end-day>
+            <end>1500</end>
+        </time>
+        <location>
+            <online>false</online>
+            <place>Chicago</place>
+        </location>
+        <users>
+            <uid>adrian</uid>
+            <uid>alex</uid>
+            <uid>sheena</uid>
+        </users>
+    </event>
+    <event>
+        <name>Playing Soccer</name>
+        <time>
+            <start-day>Tuesday</start-day>
+            <start>1000</start>
+            <end-day>Tuesday</end-day>
+            <end>1200</end>
+        </time>
+        <location>
+            <online>false</online>
+            <place>memorial field</place>
+        </location>
+        <users>
+            <uid>adrian</uid>
+        </users>
+    </event>
+    <event>
+        <name>Studying</name>
+        <time>
+            <start-day>Wednesday</start-day>
+            <start>1335</start>
+            <end-day>Thursday</end-day>
+            <end>1000</end>
+        </time>
+        <location>
+            <online>false</online>
+            <place>West Village G</place>
+        </location>
+        <users>
+            <uid>adrian</uid>
+            <uid>isaac</uid>
+        </users>
+    </event>
+</schedule>
