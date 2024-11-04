@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<schedule id="noInviteesUser">
+    <event>
+        <name>"CS3500 Morning Lecture"</name>
+        <time>
+            <start-day>Tuesday</start-day>
+            <start>0950</start>
+            <end-day>Tuesday</end-day>
+            <end>1130</end>
+        </time>
+        <location>
+            <online>false</online>
+            <place>"Churchill Hall 101"</place>
+        </location>
+        <users>
+
+        </users>
+    </event>
+</schedule>

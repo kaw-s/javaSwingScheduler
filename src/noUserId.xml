@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<schedule id="">
+    <event>
+        <name>"CS3500 Morning Lecture"</name>
+        <time>
+            <start-day>Tuesday</start-day>
+            <start>0950</start>
+            <end-day>Tuesday</end-day>
+            <end>1130</end>
+        </time>
+        <location>
+            <online>false</online>
+            <place>"Churchill Hall 101"</place>
+        </location>
+        <users>
+            <uid>"Prof. Lucia"</uid>
+            <uid>"Student Anon"</uid>
+            <uid>"Chat"</uid>
+        </users>
+    </event>
+</schedule>
